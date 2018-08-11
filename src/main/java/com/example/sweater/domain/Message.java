@@ -16,7 +16,6 @@ public class Message {
     @JoinColumn(name = "user_id")
     private User author;
 
-
     public Message() {
     }
 

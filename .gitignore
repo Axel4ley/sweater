@@ -5,3 +5,5 @@ target
 *.iml
 /*.iml
 /*.iml/
+additionalInformation.txt
+uploads

@@ -7,3 +7,4 @@ target
 /*.iml/
 additionalInformation.txt
 uploads
+application.properties

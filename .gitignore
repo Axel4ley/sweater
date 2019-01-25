@@ -8,3 +8,4 @@ target
 additionalInformation.txt
 uploads
 application.properties
+application-dev.properties

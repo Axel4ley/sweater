@@ -6,7 +6,6 @@ echo 'Copy files...'
 
 scp target/sweater-1.0-SNAPSHOT.jar -i ~/.ssh/id_rsa barkalov@185.51.247.151:
 
-
 echo 'Restart server...'
 
 ssh -i ~/.ssh/id_rsa barkalov@185.51.247.151 << EOF
